@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1569603410 source:c:\users\as\documents\testapp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"resource.h"
+	"data.h"
+
+1569601528 source:c:\users\as\documents\testapp\resource.c
+	<stdio.h>
+	"resource.h"
+
+1569601445 c:\users\as\documents\testapp\resource.h
+
+1569603420 source:c:\users\as\documents\testapp\data.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	"data.h"
+
+1569603374 c:\users\as\documents\testapp\data.h
+

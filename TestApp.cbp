@@ -31,9 +31,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="data.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="data.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="resource.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="resource.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
